@@ -63,7 +63,7 @@ rm -f /tmp/plugin-prepare
 </FILE>
 <FILE Name="/boot/packages/pyOpenSSL-0.13-i486-1ponce.txz" Run="upgradepkg --install-new">
 <URL>http://ponce.cc/slackware/slackware-14.0/packages/pyOpenSSL-0.13-i486-1ponce.txz</URL>
-<MD5>f12cd3d535f40b2aff617ea9965e92aa</MD5>
+<MD5>b66f641675c3231c8c33369602868e7e</MD5>
 </FILE>
 <FILE Name="/boot/packages/pysetuptools-2.1-i486-1_microlinux.txz" Run="upgradepkg --install-new">
 <URL>http://www.microlinux.fr/slackware/MLES-14.0-32bit/slackware/l/pysetuptools-2.1-i486-1_microlinux.txz</URL>
